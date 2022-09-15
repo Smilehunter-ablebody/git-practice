@@ -24,6 +24,7 @@
 		E83B8D8228D2CA5000700CF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E83B8D8328D2CA5000700CF0 /* git_practice.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = git_practice.entitlements; sourceTree = "<group>"; };
 		E83B8D8928D2CC1700700CF0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		E8CAAF3328D2D68E0060B938 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		E83B8D6B28D2CA4B00700CF0 = {
 			isa = PBXGroup;
 			children = (
+				E8CAAF3328D2D68E0060B938 /* .gitignore */,
 				E83B8D8928D2CC1700700CF0 /* README.md */,
 				E83B8D7628D2CA4B00700CF0 /* git-practice */,
 				E83B8D7528D2CA4B00700CF0 /* Products */,
