@@ -10,6 +10,3 @@
 그냥 글을 쓰면되지
 
 
-수정1
-merge pull request
-수정2
