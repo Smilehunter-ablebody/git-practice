@@ -8,3 +8,5 @@
 
 이제 더이상 수정할 코드가 없어
 그냥 글을 쓰면되지
+
+merge pull request
