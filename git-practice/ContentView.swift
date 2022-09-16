@@ -21,4 +21,3 @@ struct ContentView_Previews: PreviewProvider {
     }
 }
 
-// 충돌 해결
