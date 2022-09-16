@@ -11,3 +11,6 @@
 
 
 수정1
+merge pull request
+merge pull request
+수정1
