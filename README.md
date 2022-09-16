@@ -13,4 +13,4 @@
 지금 2시
 그리고 12분
 
-pull 할때 rebase로!
+그냥 PR 보내기전에 main에서 pull 받기
