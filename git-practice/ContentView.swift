@@ -20,7 +20,3 @@ struct ContentView_Previews: PreviewProvider {
         ContentView(document: .constant(git_practiceDocument()))
     }
 }
-
-// dev2
-// dev 1
-// dev 1111
